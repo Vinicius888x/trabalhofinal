@@ -1,0 +1,10 @@
+2
+84999991111 1 -5.795 -35.210 Ana Paula Silva
+84988882222 0 -5.810 -35.200 Pedro Santos
+2
+84977773333 Cliente A
+84966664444 Cliente B
+3
+Casa 1 -5.790 -35.215 350000.00 Rua das Flores, 123 - Apt 101, Bairro X
+Apartamento 2 -5.800 -35.220 280000.00 Av. Principal, 456, Centro
+Terreno 1 -5.785 -35.205 150000.00 Rua do Sol, Lote 7, Zona Rural

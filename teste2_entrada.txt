@@ -1,0 +1,15 @@
+3
+84999991111 1 -5.795 -35.210 Ana Paula Silva
+84988882222 1 -5.810 -35.200 Pedro Santos
+84977773333 0 -5.805 -35.212 Carla Oliveira
+4
+84966664444 Cliente A
+84955555555 Cliente B
+84944446666 Cliente C
+84933337777 Cliente D
+5
+Casa 1 -5.790 -35.215 350000.00 Rua das Flores, 123 - Apt 101, Bairro X
+Apartamento 2 -5.800 -35.220 280000.00 Av. Principal, 456, Centro
+Terreno 1 -5.785 -35.205 150000.00 Rua do Sol, Lote 7, Zona Rural
+Casa 3 -5.820 -35.190 400000.00 Rua da Paz, 789, Loteamento Verde
+Apartamento 4 -5.798 -35.218 320000.00 Alameda dos Coqueiros, 10, Praia

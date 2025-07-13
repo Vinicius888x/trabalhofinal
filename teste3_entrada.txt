@@ -1,0 +1,22 @@
+4
+84999991111 1 -5.780 -35.200 Ana Paula Silva
+84988882222 1 -5.820 -35.230 Pedro Santos
+84977773333 1 -5.800 -35.180 Carla Oliveira
+84966664444 0 -5.815 -35.210 João Pereira
+5
+84955555555 Cliente A
+84944446666 Cliente B
+84933337777 Cliente C
+84922228888 Cliente D
+84911119999 Cliente E
+10
+Casa 1 -5.790 -35.215 350000.00 Rua das Flores, 123 - Apt 101, Bairro X
+Apartamento 2 -5.800 -35.220 280000.00 Av. Principal, 456, Centro
+Terreno 1 -5.785 -35.205 150000.00 Rua do Sol, Lote 7, Zona Rural
+Casa 3 -5.820 -35.190 400000.00 Rua da Paz, 789, Loteamento Verde
+Apartamento 4 -5.798 -35.218 320000.00 Alameda dos Coqueiros, 10, Praia
+Terreno 5 -5.770 -35.225 180000.00 Estrada Velha, Km 5, Sitio
+Casa 1 -5.810 -35.208 450000.00 Rua Nova, 99, Centro
+Apartamento 2 -5.792 -35.202 300000.00 Edifício Mirante, 50, Tirol
+Terreno 3 -5.805 -35.195 120000.00 Loteamento Boa Vista, 22, Zona Norte
+Casa 4 -5.788 -35.212 380000.00 Travessa da Amizade, 15, Cidade Jardim
