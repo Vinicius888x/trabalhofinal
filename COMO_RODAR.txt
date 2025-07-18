@@ -5,7 +5,7 @@
 #3 -> ./imobiliaria < ../teste1_entrada.txt
 
 ## Para executar e salvar a saída em um arquivo para comparação: ##
-./imobiliaria < ../teste1_entrada.txt > minha_saida1.txt
+./imobiliaria < ../teste1_entrada.txt > teste1_saida.txt
 
 ## Para comparar sua saída com a saída esperada (se você tiver o teste1_saida.txt na raiz): ##
 diff minha_saida1.txt ../teste1_saida.txt
